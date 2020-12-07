@@ -154,6 +154,10 @@ Pish web tool
 
 🔗 Link : https://github.com/Ignitetch/Amazon-payment-gateway-phishing
 
-⭕️WORDPRESS PLUGIN "WP CHECKOUT" MASS EXPLOIT
+⭕️ WORDPRESS PLUGIN "WP CHECKOUT" MASS EXPLOIT
 
 🔗 Link : https://github.com/2inf3rnal/wp-checkout-exploit
+
+⭕️ WORDPRESS USER ENUMERATION TOOL
+
+🔗 Link : https://github.com/XiphosResearch/wp-user-enum-scripts
