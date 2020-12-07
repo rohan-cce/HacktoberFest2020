@@ -153,3 +153,7 @@ Pish web tool
 ⭕️ Amazon Payment Gateway Phishing
 
 🔗 Link : https://github.com/Ignitetch/Amazon-payment-gateway-phishing
+
+⭕️ XSS FINDER (REFLECTED XSS)
+
+🔗 Link : https://github.com/random-robbie/xssfinder
