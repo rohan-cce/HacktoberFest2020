@@ -153,3 +153,7 @@ Pish web tool
 ⭕️ Amazon Payment Gateway Phishing
 
 🔗 Link : https://github.com/Ignitetch/Amazon-payment-gateway-phishing
+
+⭕️ DRUPAL ENUMERATION & EXPLOITATION TOOL
+
+🔗 Link : https://github.com/random-robbie/drupwn
