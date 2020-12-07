@@ -153,3 +153,7 @@ Pish web tool
 ⭕️ Amazon Payment Gateway Phishing
 
 🔗 Link : https://github.com/Ignitetch/Amazon-payment-gateway-phishing
+
+⭕️ BRUTEFORCE LISTS
+
+🔗 Link : https://github.com/random-robbie/bruteforce-lists
