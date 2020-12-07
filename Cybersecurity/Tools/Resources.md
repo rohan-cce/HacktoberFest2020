@@ -153,3 +153,7 @@ Pish web tool
 ⭕️ Amazon Payment Gateway Phishing
 
 🔗 Link : https://github.com/Ignitetch/Amazon-payment-gateway-phishing
+
+⭕️WORDPRESS EXPLOITATION FRAMEWORK
+
+🔗 Link : https://github.com/rastating/wordpress-exploit-framework
