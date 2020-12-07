@@ -153,3 +153,7 @@ Pish web tool
 ⭕️ Amazon Payment Gateway Phishing
 
 🔗 Link : https://github.com/Ignitetch/Amazon-payment-gateway-phishing
+
+⭕️ BREACHER - MULTITHREAD ADMIN PANEL FINDER
+
+🔗 Link : https://github.com/s0md3v/Breacher
